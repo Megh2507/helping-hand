@@ -1,0 +1,33 @@
+.navbar_brand_logo {
+    width: 100px;
+  }
+  
+  .nav-link {
+    font-family: Manrope, ui-sans-serif, system-ui, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: 200;
+    margin-right: 30px;
+  }
+  
+  .nav-item a:hover {
+    color: rgb(198, 212, 0);
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 25px;
+
+  }
+  
+  .navbar-toggler-icon {
+    color: rgb(255, 255, 255) !important;
+  }
+  
+  .navbar{
+    background-color: #2A4C90;
+  }
+
+  .navbar-brand img{
+    width: 50px;
+    height: auto;
+    margin-left: 30px;
+  }
