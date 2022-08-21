@@ -1,5 +1,5 @@
 <p align="center">   
-   <img src="https://user-images.githubusercontent.com/78967360/180906828-79c9c1d2-bdca-4797-9889-9494df5c4f71.png" width="100%">
+   <img src="https://user-images.githubusercontent.com/78967360/185794923-0b8e6a28-e308-4756-a502-64d368ba3fbb.png" width="100%">
 
    <h1 align="center">HelpingHand</h1>
    <p align="center">It's your call!</p>
@@ -67,4 +67,6 @@ npm start
 npm run start
 ```
 
+## Architecture of the web app
+<img src="https://user-images.githubusercontent.com/78967360/185794983-f3c9fe70-ad2a-4d72-bda2-3556e22b06d2.png" width="100%">
 
